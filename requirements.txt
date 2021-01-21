@@ -15,10 +15,12 @@ cryptography==3.2.1
 cssselect==1.1.0
 distlib==0.3.1
 filelock==3.0.12
+future==0.18.2
 hyperlink==21.0.0
 idna==2.10
 importlib-metadata==3.4.0
 incremental==17.5.0
+itchat==1.2.32
 itemadapter==0.2.0
 itemloaders==1.0.4
 jmespath==0.10.0
@@ -35,6 +37,8 @@ PyDispatcher==2.0.5
 PyHamcrest==2.0.2
 PyMySQL==1.0.2
 pyOpenSSL==20.0.1
+pypng==0.0.20
+PyQRCode==1.2.1
 queuelib==1.5.0
 removebg==0.4
 requests==2.25.1
@@ -49,5 +53,6 @@ typing-extensions==3.7.4.3
 urllib3==1.26.2
 virtualenv==20.4.0
 w3lib==1.22.0
+wxpy==0.3.9.8
 zipp==3.4.0
 zope.interface==5.2.0

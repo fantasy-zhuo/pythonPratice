@@ -22,5 +22,5 @@ rmbg = RemoveBg("UiwiP9dQj53v693md9UyEyZz", "../error.log")
 # 获取单个照片的抠图   XKMh1J7geGfnGY9CFu9zXV8f
 imgPath = 'Penguins.jpg'
 rmbg.remove_background_from_img_file(imgPath)  # 图片地址
-option = 'B'  # 蓝色
+option = 'A'  # 蓝色
 changebg(imgPath + '_no_bg.png', option)

@@ -13,9 +13,7 @@ import oss2
 # res = requests.get(url) # res即返回的响应对象
 # # 3. 解析响应
 # print(res.text)  # 输出响应的文本
-
-access_key_id = 'LTAI4G1XrVLA43nDnEsC9ay4'
-access_key_secret = 'Ggi0CQ5XMXVsstAITypQptRESrDFhh'
+#
 bucket_name = 'instai-wh'
 endpoint = 'http://oss-cn-chengdu.aliyuncs.com'
 # 阿里云主账号AccessKey拥有所有API的访问权限，风险很高。强烈建议您创建并使用RAM账号进行API访问或日常运维，请登录 https://ram.console.aliyun.com 创建RAM账号。
