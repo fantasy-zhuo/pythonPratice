@@ -2,7 +2,7 @@
 from selenium import webdriver
 import time
 
-url = 'http://192.168.1.66:9081/index.html#/'
+url = 'http://www.baidu.com/'
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option("excludeSwitches", ['enable-automation'])
